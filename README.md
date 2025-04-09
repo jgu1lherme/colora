@@ -16,5 +16,5 @@ Colora é uma ferramenta simples e eficiente para capturar, identificar e copiar
 ## 🧪 Como usar
 
 Abra o Colora e, em seguida, pressione o atalho Windows + Shift + C para ativar a ferramenta.
-Use o botão direito do mouse para capturar e copiar a cor (formato #HEX) diretamente para a área de transferência, ou pressione Esc para cancelar.
+Use o botão esquerdo do mouse para capturar e copiar a cor (formato #HEX) diretamente para a área de transferência, ou pressione Esc para cancelar.
 O Colora permanece em execução discretamente na bandeja do sistema (system tray), na barra de tarefas.
