@@ -95,18 +95,13 @@ def create_image():
     return image
 
 def resource_path(relative_path):
-    """Funciona tanto no .py quanto no .exe empacotado"""
     if hasattr(sys, '_MEIPASS'):
         return os.path.join(sys._MEIPASS, relative_path)
     return os.path.join(os.path.abspath("."), relative_path)
 
 def tray_app(main_tk):
     icon = pystray.Icon("Colora")
-
-    # 🆕 Carrega seu .ico personalizado
     icon.icon = Image.open(resource_path("assets/icon.ico"))
-
-
     icon.title = "Colora"
     icon.menu = pystray.Menu(item('Exit', lambda icon, item: (icon.stop(), sys.exit())))
 
