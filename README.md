@@ -4,7 +4,7 @@ Colora é uma ferramenta simples e eficiente para capturar, identificar e copiar
 
 
 ---
-![cplora](./assets/colora_wallpaper.png)
+![colora](./assets/colora_wallpaper.png)
 
 ## 🧩 Funcionalidades
 
