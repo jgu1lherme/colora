@@ -1,11 +1,10 @@
-![cplora](./assets/colora_wallpaper.png)
-
 # 🎨 Colora
 
 Colora é uma ferramenta simples e eficiente para capturar, identificar e copiar cores da sua tela com precisão. Ideal para desenvolvedores, designers ou qualquer pessoa que trabalhe com cores digitalmente.
 
 
 ---
+![cplora](./assets/colora_wallpaper.png)
 
 ## 🧩 Funcionalidades
 
