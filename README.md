@@ -4,7 +4,7 @@ Colora é uma ferramenta simples e eficiente para capturar, identificar e copiar
 
 
 ---
-<img src="assets/colora_wallpaper.png" height="570">
+<img src="assets/colora_wallpaper.png" width="885" height="570">
 
 ## 🧩 Funcionalidades
 
