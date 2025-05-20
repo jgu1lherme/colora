@@ -8,13 +8,6 @@ Colora é uma ferramenta simples e eficiente para capturar, identificar e copiar
 ---
 <img src="assets/colora_wallpaper.png" width="885" height="570">
 
-### 🧩 Funcionalidades
-
-- Captura a cor de qualquer ponto da tela.
-- Copia a cor no formato **HEX** direto para sua área de transferência.
-- Interface amigável e extremamente leve.
-- Ícone customizado e instalador seguro.
-
 ### 🚀 Como funciona?
 Pressione `Win + Shift + C` e passe o mouse pela tela. Um preview flutuante mostra a cor em tempo real. Clique com o botão esquerdo para copiar a cor (em formato HEX) automaticamente para a área de transferência.
 
