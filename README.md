@@ -27,7 +27,7 @@ Pressione `Win + Shift + C` e passe o mouse pela tela. Um preview flutuante most
 - Criadores de conteúdo
 
 ### 📦 Download
-[👉 Baixar o instalador do Colora (.exe)](https://github.com/jgu1lherme/colora/releases/tag/v1.2)
+[👉 Baixar o instalador do Colora (.exe)](https://github.com/jgu1lherme/colora/releases/download/v1.2/Colora_Installer.exe)
 
 ---
 
