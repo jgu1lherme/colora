@@ -11,7 +11,7 @@ Colora é uma ferramenta simples e eficiente para capturar, identificar e copiar
 - Captura a cor de qualquer ponto da tela.
 - Copia a cor no formato **HEX** direto para sua área de transferência.
 - Interface amigável e extremamente leve.
-- Ícone customizado.
+- Ícone customizado e instalador seguro.
 
 
 ## 🧪 Como usar
