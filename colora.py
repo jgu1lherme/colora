@@ -117,7 +117,7 @@ def quit_app(icon, item, main_tk):
         main_tk.destroy()
     except:
         pass
-    os._exit(0)  # Força encerramento total
+    os._exit(0)
 
 def tray_app(main_tk):
     icon = pystray.Icon("Colora")
